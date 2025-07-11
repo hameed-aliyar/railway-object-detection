@@ -1,0 +1,31 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs & Output
+*.log
+*.csv
+*.xlsx
+detection_log.txt
+output_videos/
+detected_objects/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Cache
+*.cache
+
+# Environment
+.env
