@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *.pyo
-settings.py
 
 # Virtual Environment
 .venv/
